@@ -1,0 +1,13 @@
+.containerGallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.divImg img {
+  height: 610px;
+  width: 400px;
+  object-fit: cover;
+}

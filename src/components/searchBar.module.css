@@ -1,0 +1,18 @@
+.searchForm {
+  display: flex;
+  background-color: #ae528c;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  height: 30px;
+  min-width: 200px;
+  padding-left: 10px;
+}
+
+.searchBtn {
+  margin-left: 7px;
+  padding: 5px 7px 5px 7px;
+}

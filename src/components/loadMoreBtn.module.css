@@ -1,0 +1,10 @@
+.loadMoreBtn {
+  background-color: purple;
+  color: azure;
+}
+
+.divLoadMore {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
